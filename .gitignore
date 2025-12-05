@@ -4,6 +4,7 @@ build/
 .vscode/
 
 .env
+.DS_Store
 
 logs
 *.log
